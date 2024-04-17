@@ -35,14 +35,14 @@ YOLOv8 (You Only Look Once) is a state-of-the-art object detection model known f
 5. **Inference**: Perform inference on new road scene images using the trained models to segment drivable sections of road and detect cars, trucks, and people. Visualize the results and analyze model predictions.
 
 **Create Conda Virtual Environment**:
-    ```bash
+    ```
     conda create --name road-segmentation python=3.x
     conda activate road-segmentation
     ```
 
 ## Requirements
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
